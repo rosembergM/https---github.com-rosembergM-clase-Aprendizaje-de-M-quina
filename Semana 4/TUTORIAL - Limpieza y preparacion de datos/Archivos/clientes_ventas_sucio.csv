@@ -1,0 +1,15 @@
+id_cliente,nombre,ciudad,edad,ingreso_mensual,fecha_registro,compras_ultimo_mes,puntaje_satisfaccion
+1,Ana Ruiz,Bogota,29,2500000,2025-01-15,3,4.5
+2,Carlos Perez,Medellin,35,3200000,2025-01-18,5,4.8
+3,Luisa Gomez,Cali,,2800000,2025-01-20,2,4.1
+4,Juan Torres,Bogotá,42,,2025-02-01,4,4.0
+5,Maria Lopez,bogota,150,3000000,2025-02-03,3,3.9
+6,Pedro Silva,Barranquilla,31,9800000,2025-02-10,18,4.7
+7,Sofia Diaz,Medellin ,27,2600000,2025-02-12,,4.6
+8,Andres Castro,Cali,38,2900000,2025-02-15,4,
+9,Camila Naranjo,Bucaramanga,33,3100000,2025-02-20,5,4.9
+10,Diego Marin,Cartagena,29,2750000,2025-02-21,3,4.2
+10,Diego Marin,Cartagena,29,2750000,2025-02-21,3,4.2
+11,Laura Vega,Medellín,41,3400000,2025-03-01,6,4.4
+12,Mateo Rojas,,36,3150000,2025-03-05,4,4.3
+13,Valentina Mora,Cali,28,0,2025-03-08,2,4.1

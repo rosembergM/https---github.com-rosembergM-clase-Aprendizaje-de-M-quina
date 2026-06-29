@@ -1,0 +1,17 @@
+pedido_id,fecha,ciudad,categoria,canal,unidades,precio_unitario,descuento_pct,calificacion_cliente
+1001,2025-01-05,Bogota,Tecnologia,Web,3,180000,0.1,4.8
+1002,2025-01-08,Medellin,Hogar,Tienda,5,95000,0.05,4.4
+1003,2025-01-15,Cali,Tecnologia,App,2,320000,0.15,4.9
+1004,2025-01-22,Barranquilla,Deportes,Web,4,120000,0.0,4.3
+1005,2025-02-02,Bogota,Hogar,Tienda,6,85000,0.08,4.2
+1006,2025-02-09,Medellin,Moda,App,7,70000,0.2,4.6
+1007,2025-02-16,Cali,Tecnologia,Web,1,450000,0.05,4.7
+1008,2025-02-28,Cartagena,Moda,Tienda,3,110000,0.1,4.1
+1009,2025-03-03,Bogota,Deportes,App,8,65000,0.12,4.5
+1010,2025-03-11,Bucaramanga,Hogar,Web,2,150000,0.0,4.0
+1011,2025-03-18,Medellin,Tecnologia,Tienda,4,210000,0.07,4.8
+1012,2025-03-26,Cali,Moda,Web,5,90000,0.18,4.3
+1013,2025-04-04,Bogota,Hogar,App,9,78000,0.1,4.6
+1014,2025-04-13,Barranquilla,Tecnologia,Web,2,380000,0.12,4.9
+1015,2025-04-21,Medellin,Deportes,Tienda,6,98000,0.05,4.4
+1016,2025-04-29,Cartagena,Hogar,App,4,132000,0.09,4.2

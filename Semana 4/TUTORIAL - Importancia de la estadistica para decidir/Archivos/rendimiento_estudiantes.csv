@@ -1,0 +1,25 @@
+estudiante_id,grupo,horas_estudio_semana,nota_final,tiempo_plataforma_min,asistencia_pct,entregas_tarde,recurso_favorito
+1,A,4,3.2,85,78,3,Videos
+2,A,6,3.8,120,88,1,Guias
+3,A,7,4.1,150,92,0,Videos
+4,A,3,2.9,70,75,4,Clases en vivo
+5,A,8,4.4,210,95,0,Videos
+6,A,5,3.5,95,84,2,Guias
+7,B,2,2.7,45,68,5,Resumenes
+8,B,9,4.6,260,97,0,Videos
+9,B,4,3.3,80,79,2,Guias
+10,B,6,3.9,130,90,1,Videos
+11,B,10,4.8,320,98,0,Videos
+12,B,1,2.4,30,60,6,Clases en vivo
+13,C,5,3.6,100,86,1,Guias
+14,C,7,4.0,145,91,0,Videos
+15,C,3,3.0,65,73,3,Resumenes
+16,C,8,4.3,190,94,0,Videos
+17,C,2,2.8,55,70,4,Guias
+18,C,6,3.7,110,87,1,Clases en vivo
+19,D,12,4.9,410,99,0,Videos
+20,D,4,3.1,75,77,2,Guias
+21,D,5,3.4,90,83,2,Resumenes
+22,D,7,4.2,160,93,0,Videos
+23,D,2,2.6,40,66,5,Clases en vivo
+24,D,9,4.5,240,96,0,Videos

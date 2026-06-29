@@ -1,0 +1,33 @@
+SEMANA 4 - MATERIAL DE APOYO
+
+LECTURAS
+1. Lectura 1/LECTURA - Limpieza y preparacion de datos.ipynb
+2. Lectura 2/LECTURA - Lectura y exploracion de datasets.ipynb
+
+TUTORIALES
+1. TUTORIAL - Limpieza y preparacion de datos/TUTORIAL - Limpieza y preparacion de datos.ipynb
+2. TUTORIAL - Lectura y exploracion de datos/TUTORIAL - Lectura y exploracion de datos.ipynb
+3. TUTORIAL - Importancia de la estadistica para decidir/TUTORIAL - Importancia de la estadistica para decidir.ipynb
+
+ARCHIVOS DE PRACTICA
+- TUTORIAL - Limpieza y preparacion de datos/Archivos/clientes_ventas_sucio.csv
+- TUTORIAL - Lectura y exploracion de datos/Archivos/ventas_tienda.csv
+- TUTORIAL - Importancia de la estadistica para decidir/Archivos/rendimiento_estudiantes.csv
+- TALLER - Exploracion, limpieza y analisis de datos/Archivos/saber11_2500.csv
+
+RECURSOS EXTERNOS
+- Datos abiertos de Saber 11: https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-11/kgxf-xxbe/about_data
+- API del mismo recurso: https://www.datos.gov.co/api/v3/views/kgxf-xxbe/query.json
+- Pandas IO: https://pandas.pydata.org/docs/reference/io.html
+- Pandas DataFrame reference: https://pandas.pydata.org/docs/reference/frame.html
+
+ORDEN SUGERIDO
+1. Leer limpieza y calidad.
+2. Desarrollar tutorial de limpieza.
+3. Leer lectura y exploracion.
+4. Desarrollar tutorial de exploracion.
+5. Desarrollar tutorial de estadistica para decidir.
+6. Resolver el taller integrador de la semana 4.
+
+TALLERES
+1. TALLER - Exploracion, limpieza y analisis de datos/TALLER - Exploracion, limpieza y analisis de datos.ipynb
